@@ -35,13 +35,25 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### **UI Libraries & Frameworks**
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Authentication & Security**
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -54,12 +66,12 @@
 
 ## 📈 Current Focus
 
-- 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 I'm learning **Advanced AWS & Microservices**
+- 🔭 I'm currently working on **MERN Stack & Next.js Projects**
+- 🌱 I'm learning **Advanced AWS, Docker & Microservices Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: **I love solving complex coding problems**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, TypeScript**
+- 📫 How to reach me: [your-email@domain.com]
+- ⚡ Fun fact: **I love solving complex coding problems and building scalable applications**
 
 ---
 
@@ -85,13 +97,13 @@
 ## 🎯 Featured Projects
 
 ### 🔥 [Project 1 Name](https://github.com/parvez-alif/project-1)
-Brief description of your amazing project
+Modern full-stack application built with Next.js, TypeScript, and Shadcn/ui
 
 ### 🚀 [Project 2 Name](https://github.com/parvez-alif/project-2)
-Brief description of your awesome project
+Scalable MERN stack application with advanced state management
 
 ### 💡 [Project 3 Name](https://github.com/parvez-alif/project-3)
-Brief description of your innovative project
+Real-time application using React, Node.js, and WebSockets
 
 ---
 
