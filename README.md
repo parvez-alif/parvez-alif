@@ -71,7 +71,6 @@
 ### **Authentication & Tools**
 <div align="left">
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -106,7 +105,7 @@ Modern blogging platform with rich text editor, comment system, and social featu
 
 If you like my work and would like to support me, consider buying me a coffee! It helps me stay motivated and create more amazing content.
 
-<a href="https://www.buymeacoffee.com/parvezalif" target="_blank">
+<a href="https://www.buymeacoffee.com/parvez.alif" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
 </a>
 
@@ -115,7 +114,7 @@ If you like my work and would like to support me, consider buying me a coffee! I
 
 ### 🌊 Thank You Wave
 
-![Wave](https://github.com/parvez-alif/parvez-alif/blob/main/wave.gif)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 <p>Thanks for visiting my profile! Your support means a lot! 🚀</p>
 
@@ -142,18 +141,13 @@ If you like my work and would like to support me, consider buying me a coffee! I
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=parvez-alif&show_icons=true&theme=radical&hide_border=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvez-alif&theme=radical&hide_border=true" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-alif&layout=compact&theme=radical&hide_border=true" />
-        <img src="https://github-contributor-stats.vercel.app/api?username=parvez-alif&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  
+![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-alif&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=parvez-alif&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-alif&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400)
+
 </div>
 
 <div align="center">
