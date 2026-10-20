@@ -1,170 +1,138 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AssalaMuAlaikum+Hi+There!+👋;+I'm+Parvez+Hossain+Alif;" />
-</h1>
-
-<div align="center">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="cover" />
-</div>
-
-<h3 align="center">
-  🚀 Full-Stack Developer | MERN Stack Specialist | TypeScript Enthusiast
-</h3>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/chyZt6Yw/github-banner-design.png" width="100%" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- Header Section -->
+<h1 align="center">👋 Hello, I'm Parvez Hossain Alif</h1>
+<h3 align="center">Full Stack/Frontend Web Developer | Next.js | React.js | Node.js | Express.js | Prisma PostGreSQL | MongoDB | Passionate about Building Web app and gain Experience</h3>
 
-<p align="left">
-  I'm a passionate Full-Stack Developer from Bangladesh with expertise in modern web technologies. I specialize in building scalable, performant applications using the MERN stack and Next.js. With a strong foundation in both frontend and backend development, I create seamless user experiences with robust architecture.
+<p align="center">
+  <a href="https://github.com/Parvez141300?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge&logo=github" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/parvez-hossain-alif/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-- 💼 **Professional Focus:** Full-Stack Web Development
-- 🌱 **Currently Learning:** Advanced AWS, Microservices, System Design
-- 🎯 **Career Goals:** Senior Full-Stack Developer | Tech Lead
-- 💡 **Interests:** Open Source, AI/ML, Cloud Computing
-- 📍 **Location:** Dhaka, Bangladesh
-- 🎓 **Education:** BSc in Computer Science & Engineering
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the MERN stack and **Next.js**, **Prisma PostGreSQL**, dedicated to crafting responsive, user-friendly web applications. I thrive on transforming complex problems into elegant solutions and continuously expanding my technical knowledge.
+
+**What drives me:**
+- 💻 Building intuitive user interfaces with modern frameworks like React and Next.js
+- 🔐 Implementing secure authentication systems using Better-Auth and Firebase
+- 📊 Working with PostgreSQL and Prisma for robust database solutions
+- 🚀 Deploying scalable applications to cloud platforms
+- 🎨 Creating beautiful UIs with component libraries like Shadcn/ui and DaisyUI
+- 🔄 Full-stack development with TypeScript for type-safe applications
+- 🤝 Collaborating on meaningful projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Frontend Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</div>
-
-### **UI Libraries & Frameworks**
-<div align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-</div>
-
-### **Backend Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### **Cloud & DevOps**
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
-### **Authentication & Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🔥 **E-Commerce Platform** | [Live Demo](https://demo.com) | [Source Code](https://github.com/parvez-alif/project-1)
-Full-stack e-commerce solution built with Next.js, TypeScript, and MongoDB. Features include user authentication, payment integration, and admin dashboard.
-
-**Tech:** Next.js · TypeScript · MongoDB · Tailwind CSS · Stripe
-
-### 🚀 **Task Management App** | [Live Demo](https://demo.com) | [Source Code](https://github.com/parvez-alif/project-2)
-Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.
-
-**Tech:** React · Node.js · Socket.io · PostgreSQL · Docker
-
-### 💡 **Blog Platform** | [Live Demo](https://demo.com) | [Source Code](https://github.com/parvez-alif/project-3)
-Modern blogging platform with rich text editor, comment system, and social features. Optimized for SEO and performance.
-
-**Tech:** Next.js · Prisma · AWS · Shadcn/ui · NextAuth
-
----
-
-## 💝 Support Me
-
-<div align="center">
-
-### ☕ Buy Me a Coffee
-
-If you like my work and would like to support me, consider buying me a coffee! It helps me stay motivated and create more amazing content.
-
-<a href="https://www.buymeacoffee.com/parvez.alif" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-</a>
-
-<br>
-<br>
-
-### 🌊 Thank You Wave
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-
-<p>Thanks for visiting my profile! Your support means a lot! 🚀</p>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/parvez-hossain-alif/?locale=en_US" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:parvez.alif.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://parvez-hossain-alif-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-alif&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=parvez-alif&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-alif&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400)
-
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=parvez-alif&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parvez-alif&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-  <a href="https://github.com/parvez-alif?tab=followers">
-    <img src="https://img.shields.io/github/followers/parvez-alif?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</div>
-
-<p align="center"> 
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  <br><br>
-  <i>Thank you for visiting my profile! Have a great day! 😄</i>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" alt="Frontend Technologies" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack%20Form-FF4154?style=for-the-badge" alt="TanStack Form" />
+  <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=for-the-badge" alt="TanStack Table" />
 </p>
+
+### **Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" alt="Backend Technologies" />
+</p>
+
+### **Authentication & Deployment**
+<p align="left">
+  <img src="https://img.shields.io/badge/Better--Auth-6B46C1?style=for-the-badge&logo=auth0&logoColor=white" alt="Better-Auth" />
+  <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Deployment" />
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="Tools" />
+</p>
+
+---
+
+## 📌 Currently
+
+- 🔭 **Working on:** Zentro Hr & payroll sass & erp website application using Next.js, Express.js, Prisma PostgreSQL and for authentication I am using Better-Auth
+- 🌱 **Deepening expertise:** Next.js App Router, Server Components, and API routes
+- 💡 **Improving:** Backend development with PostgreSQL & Prisma, type-safe database queries
+- 🎨 **Exploring:** Docker and Shadcn/ui for beautiful, accessible component development
+- 🔐 **Implementing:** Better-Auth for secure, modern authentication solutions
+- 🚀 **Deploying:** Full-stack Next.js and Express.js applications on Vercel
+- 🎯 **Goal:** Building full-stack TypeScript applications with end-to-end type safety
+
+---
+
+## 🔐 Authentication & Deployment Expertise
+
+### **Authentication**
+- **Better-Auth:** Modern authentication for Next.js applications
+- **Firebase Authentication:** Email/password, Google, GitHub OAuth
+- **JWT Tokens:** Secure API authentication
+- **Session Management:** Cookie-based and token-based auth
+
+### **Databases & ORMs**
+- **PostgreSQL:** Relational database management
+- **Prisma:** Type-safe ORM with migrations and query building for the PostgreSQL DB
+- **MongoDB:** NoSQL database
+- **MongoDB Atlas:** Cloud database management
+
+### **Deployment Platforms**
+- **Vercel:** Next.js deployment with CI/CD and serverless functions
+- **Netlify:** Static site hosting with serverless functions
+- **Firebase Hosting:** Full-stack application deployment
+
+### **UI Libraries**
+- **Shadcn/ui:** Beautiful, accessible components with Radix UI and Tailwind
+- **DaisyUI:** Component-based development with Tailwind CSS
+- **Tailwind CSS:** Utility-first CSS framework
+- **React Components:** Reusable and maintainable UI components
+
+---
+
+## 💻 Full-Stack TypeScript Development
+
+```typescript
+// Example: Modern full-stack stack with TypeScript
+interface FullStackExpertise {
+  frontend: {
+    framework: 'Next.js' | 'React';
+    styling: ['TailwindCSS', 'Shadcn/ui', 'DaisyUI'];
+    language: 'TypeScript';
+  };
+  backend: {
+    framework: 'Express';
+    database: ['PostgreSQL', 'MongoDB'];
+    orm: ['Prisma'];
+    language: 'TypeScript';
+  };
+  auth: {
+    solutions: ['Better-Auth', 'Firebase Auth', 'JWT'];
+    features: ['OAuth', 'Email/Password', 'Session Management'];
+  };
+  deployment: {
+    platforms: ['Vercel', 'Netlify', 'Firebase'];
+    features: ['CI/CD', 'Serverless Functions', 'Edge Computing'];
+  };
+  devops: {
+    containerization: ['Docker'];
+    tools: ['Git', 'GitHub', 'Postman', 'Figma'];
+  };
+}
